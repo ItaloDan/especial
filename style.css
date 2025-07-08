@@ -102,8 +102,8 @@ position: absolute;
   left: 50%;
   transform: translate(-50%, -50%);
 
-      width: 600px;
-      height: 500px;
+      width: 800px;
+      height: 800px;
       background: #c62828;
       position: relative;
       cursor: pointer;
